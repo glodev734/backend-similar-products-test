@@ -1,0 +1,8 @@
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/client/ExternalProductClient.java
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/exception/ProductNotFoundException.java
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/SimilarProductsApplication.java
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/controller/SimilarProductController.java
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/service/ProductService.java
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/configuration/RestTemplateConfig.java
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/service/SimilarProductServiceImpl.java
+/Users/gloria/Documents/Proyecto/backend-similar-products-test/src/main/java/com/example/similar_products/domain/SimilarItemDTO.java

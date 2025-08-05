@@ -1,0 +1,8 @@
+com/example/similar_products/SimilarProductsApplication.class
+com/example/similar_products/controller/SimilarProductController.class
+com/example/similar_products/service/SimilarProductServiceImpl.class
+com/example/similar_products/domain/SimilarItemDTO.class
+com/example/similar_products/configuration/RestTemplateConfig.class
+com/example/similar_products/exception/ProductNotFoundException.class
+com/example/similar_products/client/ExternalProductClient.class
+com/example/similar_products/service/ProductService.class
